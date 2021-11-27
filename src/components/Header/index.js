@@ -13,7 +13,7 @@ const Header = () => {
       <>
         <Flex p={"5em"}>
           <Box ms={"5em"}>
-            <Link as={ ReachLink } to="/art" onClick="window.location.reload();" fontWeight="bold" fontSize="md" pb={1} _hover={{color: "#f40"}} borderBottomColor={ window.location.pathname === "/art" ? "#f40" :null} borderBottomWidth={ window.location.pathname === "/art" ? "0.3em" :null} color={ window.location.pathname === "/art" ? "#f40" :null}>ART</Link>
+            <Link as={ ReachLink } to="/" onClick="window.location.reload();" fontWeight="bold" fontSize="md" pb={1} _hover={{color: "#f40"}} borderBottomColor={ window.location.pathname === "/" ? "#f40" :null} borderBottomWidth={ window.location.pathname === "/" ? "0.3em" :null} color={ window.location.pathname === "/" ? "#f40" :null}>ART</Link>
             <Link as={ ReachLink } to="/about" onClick="window.location.reload();" fontWeight="bold" fontSize="md" ms={10} pb={1} _hover={{color: "#f40"}} borderBottomColor={ window.location.pathname === "/about" ? "#f40" :null} borderBottomWidth={ window.location.pathname === "/about" ? "0.3em" :null} color={ window.location.pathname === "/about" ? "#f40" :null}>ABOUT</Link>
           </Box>
           <Spacer />
