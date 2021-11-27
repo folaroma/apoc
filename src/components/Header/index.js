@@ -1,8 +1,14 @@
 import React from "react";
 import { Flex, Box, Link, Spacer, Center, Heading } from "@chakra-ui/react";
-import {Link as ReachLink } from "react-router-dom";
+import {Link as ReachLink, useNavigate } from "react-router-dom";
 
 const Header = () => {
+  const navigate = useNavigate();
+
+  function handleClick() {
+    navigate("/");
+  }
+
   return (
       <>
         <Flex p={"5em"}>
@@ -12,7 +18,7 @@ const Header = () => {
           </Box>
           <Spacer />
           <Center mt="-0.75em">
-            <Heading _hover={{color: "#f40"}}>apocalypticism</Heading>
+            <Heading _hover={{color: "#f40", cursor: "pointer"}} onClick={handleClick}>apocalypticism</Heading>
           </Center>
           <Spacer />
           <Box me={"5em"}>
