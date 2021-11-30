@@ -1,5 +1,5 @@
 import React from "react";
-import { Flex, Box, Link, Spacer, Center, Heading } from "@chakra-ui/react";
+import { Flex, Box, Link, Spacer, Center, Heading} from "@chakra-ui/react";
 import {Link as ReachLink, useNavigate } from "react-router-dom";
 
 const Header = () => {

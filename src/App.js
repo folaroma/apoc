@@ -5,6 +5,7 @@ import { ChakraProvider } from "@chakra-ui/react";
 import Home from "./components/Home/";
 import Header from "./components/Header/";
 import About from "./components/About/";
+import Sixteenth from "./components/Sixteenth/";
 
 const App = () => {
     return (
@@ -14,6 +15,7 @@ const App = () => {
           <Routes>
             <Route path="/" element={<Home />} /> 
             <Route path="/about" element={<About />} />
+            <Route path="/16century" element={<Sixteenth />} />
           </Routes> 
         </BrowserRouter>
       </ChakraProvider>
