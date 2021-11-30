@@ -1,25 +1,39 @@
 [{
-        "name": "Beast With Seven Heads",
-        "author": "Albrecht Dürer",
-        "image": "/images/16century/beastwithsevenheads.jpeg",
+        "name": "The Deluge",
+        "author": "Gustave Dore",
+        "image": "/images/19century/deluge-dore.jpeg",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam facilisis augue in magna faucibus maximus. In hac habitasse platea dictumst. Cras euismod libero vitae lacus sollicitudin elementum. Fusce vitae est eu odio tempus maximus. Nullam eget dui ex. Nam non ex faucibus, porta nibh at, interdum est. Aenean fringilla at nulla a ultricies. Aliquam erat volutpat. Vestibulum hendrerit eleifend justo eget hendrerit. Sed vitae ipsum dictum, sollicitudin odio eget, gravida purus. Integer sed nibh fringilla, tempor turpis non, gravida quam. Pellentesque at eros ut nisi cursus porttitor. Aenean suscipit luctus nisi, id blandit erat ultricies id. Aenean rutrum ullamcorper diam vel pellentesque. Suspendisse sed ligula vitae libero condimentum posuere eget in quam. Mauris venenatis gravida dolor sed ornare."
     },
     {
-        "name": "The Four Hoursemen of the Apocalypse",
-        "author": "Albrecht Dürer",
-        "image": "/images/16century/fourhoursemen.jpeg",
+        "name": "The Deluge",
+        "author": "John Martin",
+        "image": "/images/19century/delugemartin.jpeg",
         "description": ""
     },
     {
-        "name": "Garden of Earthly Delights",
-        "author": "Hieronymus Bosch",
-        "image": "/images/16century/gardenofearthlydelights.jpg",
+        "name": "The Deluge",
+        "author": "J. M. W. Turner",
+        "image": "/images/19century/delugeturner.jpeg",
         "description": ""
     },
     {
-        "name": "Last Judgement",
-        "author": "Michelangelo",
-        "image": "/images/16century/lastjudgement.jpg",
+        "name": "Destruction, from The Course of Empire",
+        "author": "Thomas Cole",
+        "image": "/images/19century/destruction.jpg",
+        "description": ""
+
+    },
+    {
+        "name": "Saturn Devouring His Son",
+        "author": "Francisco Goya",
+        "image": "/images/19century/saturndevouringson.jpeg",
+        "description": ""
+
+    },
+    {
+        "name": "Tynemouth Pier - Lighting the Lamps at Sundown",
+        "author": "Alfred William Hunt",
+        "image": "/images/19century/tynemouthhunt.jpg",
         "description": ""
 
     }

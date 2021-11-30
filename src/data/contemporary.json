@@ -1,25 +1,32 @@
 [{
-        "name": "Beast With Seven Heads",
-        "author": "Albrecht Dürer",
-        "image": "/images/16century/beastwithsevenheads.jpeg",
+        "name": "Collective Suicide",
+        "author": "David Alfaro Siqueiros",
+        "image": "/images/contemporary/collectivesuicide.jpeg",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam facilisis augue in magna faucibus maximus. In hac habitasse platea dictumst. Cras euismod libero vitae lacus sollicitudin elementum. Fusce vitae est eu odio tempus maximus. Nullam eget dui ex. Nam non ex faucibus, porta nibh at, interdum est. Aenean fringilla at nulla a ultricies. Aliquam erat volutpat. Vestibulum hendrerit eleifend justo eget hendrerit. Sed vitae ipsum dictum, sollicitudin odio eget, gravida purus. Integer sed nibh fringilla, tempor turpis non, gravida quam. Pellentesque at eros ut nisi cursus porttitor. Aenean suscipit luctus nisi, id blandit erat ultricies id. Aenean rutrum ullamcorper diam vel pellentesque. Suspendisse sed ligula vitae libero condimentum posuere eget in quam. Mauris venenatis gravida dolor sed ornare."
     },
     {
-        "name": "The Four Hoursemen of the Apocalypse",
-        "author": "Albrecht Dürer",
-        "image": "/images/16century/fourhoursemen.jpeg",
+        "name": "Deluge",
+        "author": "John Goto",
+        "image": "/images/contemporary/delugegoto.jpeg",
         "description": ""
     },
     {
-        "name": "Garden of Earthly Delights",
-        "author": "Hieronymus Bosch",
-        "image": "/images/16century/gardenofearthlydelights.jpg",
+        "name": "Europe after the Rain II",
+        "author": "Max Ernst",
+        "image": "/images/contemporary/europeafterrain2.jpeg",
         "description": ""
     },
     {
-        "name": "Last Judgement",
-        "author": "Michelangelo",
-        "image": "/images/16century/lastjudgement.jpg",
+        "name": "Guernica",
+        "author": "Pablo Picasso",
+        "image": "/images/contemporary/guernica.jpeg",
+        "description": ""
+
+    },
+    {
+        "name": "Soft Construction with Boiled Beans",
+        "author": "Salvador Dalí",
+        "image": "/images/contemporary/softconstruction.jpeg",
         "description": ""
 
     }

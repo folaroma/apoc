@@ -30,7 +30,6 @@ class ModalCarousel extends React.Component {
 
 
   render () {
-    this.props.data.map((postData) => {console.log(postData)});
     return (
       <>
 
