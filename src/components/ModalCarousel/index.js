@@ -58,9 +58,9 @@ class ModalCarousel extends React.Component {
           >
           <Flex>
             <Box pr={"5em"} pb={3}>
-              <Heading size="md" display="flex" float="left"> {this.props.data[this.index].name} </Heading>
+              <Heading size="md" display="flex" float="left"> {this.props.data[this.index].name} - {this.props.data[this.index].author} </Heading>
             </Box>
-            <Box ml={"20em"} mt={"0.1em"}>
+            <Box position="absolute" top="1.5em" right="1.5em">
               <Icon as={ ImCross } color="gray" onClick={this.handleCloseModal} />
             </Box>
           </Flex>

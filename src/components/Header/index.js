@@ -15,6 +15,7 @@ const Header = () => {
           <Box ms={"5em"}>
             <Link as={ ReachLink } to="/" onClick="window.location.reload();" fontWeight="bold" fontSize="md" pb={1} _hover={{color: "#f40"}} borderBottomColor={ window.location.pathname === "/" ? "#f40" :null} borderBottomWidth={ window.location.pathname === "/" ? "0.3em" :null} color={ window.location.pathname === "/" ? "#f40" :null}>ART</Link>
             <Link as={ ReachLink } to="/about" onClick="window.location.reload();" fontWeight="bold" fontSize="md" ms={10} pb={1} _hover={{color: "#f40"}} borderBottomColor={ window.location.pathname === "/about" ? "#f40" :null} borderBottomWidth={ window.location.pathname === "/about" ? "0.3em" :null} color={ window.location.pathname === "/about" ? "#f40" :null}>ABOUT</Link>
+            <Link as={ ReachLink } to="/cite" onClick="window.location.reload();" fontWeight="bold" fontSize="md" ms={10} pb={1} _hover={{color: "#f40"}} borderBottomColor={ window.location.pathname === "/cite" ? "#f40" :null} borderBottomWidth={ window.location.pathname === "/cite" ? "0.3em" :null} color={ window.location.pathname === "/cite" ? "#f40" :null}>CITATION</Link>
           </Box>
           <Spacer />
           <Center mt="-0.75em">

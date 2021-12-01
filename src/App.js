@@ -9,6 +9,9 @@ import Sixteenth from "./components/Sixteenth/";
 import Nineteenth from "./components/Nineteenth/";
 import Contemporary from "./components/Contemporary/";
 import Film from "./components/Film/";
+import Citation from "./components/Citation/";
+import Daniel from "./components/Daniel/";
+import David from "./components/David";
 
 const App = () => {
     return (
@@ -18,10 +21,13 @@ const App = () => {
           <Routes>
             <Route path="/" element={<Home />} /> 
             <Route path="/about" element={<About />} />
+            <Route path="/cite" element={<Citation />} />
             <Route path="/16century" element={<Sixteenth />} />
             <Route path="/19century" element={<Nineteenth />} />
             <Route path="/contemporary" element={<Contemporary />} />
             <Route path="/film" element={<Film />} />
+            <Route path="/daniel" element={<Daniel />} />
+            <Route path="/david" element={<David />} />
           </Routes> 
         </BrowserRouter>
       </ChakraProvider>
