@@ -1,5 +1,5 @@
 import React from "react";
-import { Flex, Box, Heading } from "@chakra-ui/react";
+import { Flex, Box, Text, Heading } from "@chakra-ui/react";
 
 const About = () => {
   return (
