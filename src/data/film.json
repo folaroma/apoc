@@ -2,60 +2,60 @@
         "name": "The Book of Eli",
         "author": "Warner Bros. Pictures",
         "image": "/images/film/bookofeli.jpg",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam facilisis augue in magna faucibus maximus. In hac habitasse platea dictumst. Cras euismod libero vitae lacus sollicitudin elementum. Fusce vitae est eu odio tempus maximus. Nullam eget dui ex. Nam non ex faucibus, porta nibh at, interdum est. Aenean fringilla at nulla a ultricies. Aliquam erat volutpat. Vestibulum hendrerit eleifend justo eget hendrerit. Sed vitae ipsum dictum, sollicitudin odio eget, gravida purus. Integer sed nibh fringilla, tempor turpis non, gravida quam. Pellentesque at eros ut nisi cursus porttitor. Aenean suscipit luctus nisi, id blandit erat ultricies id. Aenean rutrum ullamcorper diam vel pellentesque. Suspendisse sed ligula vitae libero condimentum posuere eget in quam. Mauris venenatis gravida dolor sed ornare."
+        "description": "The Book of Eli is the quintessential apocalyptic film. It explores the journey of man through a merciless world post environmental disaster, attempting to complete what he believes to be a God-given mission to deliver a bible west. The film explores the abuse of power and religion in a world more or less void of religion."
     },
     {
         "name": "The Seventh Seal",
         "author": "AB Svensk Filmindustri",
         "image": "/images/film/seventhseal.jpg",
-        "description": ""
+        "description": "The Seventh Seal shows the return journey of a crusader to a plague-stricken Europe. Throughout the film, different individuals continuously point to the plague as some sort of religious event, be it a punishment from God or the apocalypse."
     },
     {
         "name": "The Day the Earth Stood Still",
         "author": "20th Century Fox",
         "image": "/images/film/daytheearthstoodstill.jpg",
-        "description": ""
+        "description": "The Day the Earth Stood Still stands unique of most apocalyptic films. It gives instead a warning of apocalypse by a Jesus-like figure, if humanity chooses to bring nuclear weapons to space. Similarities can be drawn to fears of nuclear destruction during the Cold War, a time when humanity was likely closest to extinction in recent history."
     },
     {
         "name": "Apocalypse Now",
         "author": "United Artists",
         "image": "/images/film/apocalypsenow.jpg",
-        "description": ""
+        "description": "As decipherable from the title, Apocalypse Now explores an apocalyptic microcosm within the 1970s, instead of the stereotypical world in apocalypse. It follows a man’s journey through said apocalypse to accomplish a morally grey mission given to him by his superiors."
 
     },
     {
         "name": "Independence Day",
         "author": "20th Century Fox",
         "image": "/images/film/independenceday.jpg",
-        "description": ""
+        "description": "As decipherable from the title, Apocalypse Now explores an apocalyptic microcosm within the 1970s, instead of the stereotypical world in apocalypse. It follows a man’s journey through said apocalypse to accomplish a morally grey mission given to him by his superiors."
 
     },
     {
         "name": "Smoke Signals",
         "author": "Miramax",
         "image": "/images/film/smokesignals.jpg",
-        "description": ""
+        "description": "Smoke Signals takes a unique approach to the typical formula present in other post-apocalyptic films. Instead of a usually dystopian world with a broken natural environment, Smoke Signals exhibits a world of a specific people, post-conquest. It explores the lives of two individuals searching for a lost cultural identity."
 
     },
     {
         "name": "Blade Runner",
         "author": "Warner Bros.",
         "image": "/images/film/bladerunner.jpg",
-        "description": ""
+        "description": "Blade Runner displays a dystopian world, in which Earth has long since been barren of all life but human. It explores the meaning of what it means to be human, and the morality of the control and limitation of other sentient, intelligent life."
 
     },
     {
         "name": "Planet of the Apes",
         "author": "20th Century Fox",
         "image": "/images/film/planetoftheapes.jpg",
-        "description": ""
+        "description": "The Planet of the Apes shows a world in recovery following what appears to be the destruction of modern humanity. Instead, intelligent non-human primates have taken the mantle as the planet’s dominant species. It explores the repetition of discrimination and other societal norms found in our society in another intelligent species."
 
     },
     {
         "name": "28 Days Later",
         "author": "Fox Searchlight Pictures",
         "image": "/images/film/28dayslater.jpg",
-        "description": ""
+        "description": "28 Days Later envisions a Great Britain following a zombie apocalypse. A group of four characters attempt to make their way to a supposed safe haven at a military outpost. A near-complete dissolution of the government of Great Britain seems apparent, with no overall command structure for the British military remaining."
 
     }
 ]

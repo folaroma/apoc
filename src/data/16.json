@@ -2,25 +2,25 @@
         "name": "Beast With Seven Heads",
         "author": "Albrecht Dürer",
         "image": "/images/16century/beastwithsevenheads.jpeg",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam facilisis augue in magna faucibus maximus. In hac habitasse platea dictumst. Cras euismod libero vitae lacus sollicitudin elementum. Fusce vitae est eu odio tempus maximus. Nullam eget dui ex. Nam non ex faucibus, porta nibh at, interdum est. Aenean fringilla at nulla a ultricies. Aliquam erat volutpat. Vestibulum hendrerit eleifend justo eget hendrerit. Sed vitae ipsum dictum, sollicitudin odio eget, gravida purus. Integer sed nibh fringilla, tempor turpis non, gravida quam. Pellentesque at eros ut nisi cursus porttitor. Aenean suscipit luctus nisi, id blandit erat ultricies id. Aenean rutrum ullamcorper diam vel pellentesque. Suspendisse sed ligula vitae libero condimentum posuere eget in quam. Mauris venenatis gravida dolor sed ornare."
+        "description": "Albrecht Dürer illustrates the two beasts described by John in the book of Revelation in the bible. These two beasts are said to bring about and influence the beginning of Armageddon, a final battle between the forces of good and evil before Judgement Day."
     },
     {
         "name": "Four Hoursemen of the Apocalypse",
         "author": "Albrecht Dürer",
         "image": "/images/16century/fourhoursemen.jpeg",
-        "description": ""
+        "description": "Albrecht Dürer illustrates the four horsemen of the apocalypse as described by John in the book of Revelation in the bible. Some Christians interpret the four riders as the harbingers of Judgement Day."
     },
     {
         "name": "Garden of Earthly Delights",
         "author": "Hieronymus Bosch",
         "image": "/images/16century/gardenofearthlydelights.jpg",
-        "description": ""
+        "description": "Hieronymus Bosch creates a triptych of three separate images. The left image shows the joining of Adam and Eve. The middle shows what appears to be early humans thriving in the Garden of Eden. The right image appears to show a hellish apocalyptic scenario, where humanity suffers."
     },
     {
         "name": "Last Judgement",
         "author": "Michelangelo",
         "image": "/images/16century/lastjudgement.jpg",
-        "description": ""
+        "description": "Michelangelo creates a painting displaying his interpretation of Judgment Day. Those that are judged as righteous by God rise to the heavens, while the damned are left to Earth, and have already begun fighting amongst themselves. The damned are left to their own apocalyptic world."
 
     }
 ]

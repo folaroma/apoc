@@ -1,5 +1,5 @@
-import React, { useRef, useState } from "react";
-import { Center, Icon, Text, Spacer, Box, Flex, Heading } from "@chakra-ui/react";
+import React from "react";
+import { Center, Icon, Text, Box, Flex, Heading } from "@chakra-ui/react";
 import ReactModal from "react-modal";
 import { Swiper, SwiperSlide } from "swiper/react";
 import 'swiper/swiper-bundle.min.css'
@@ -65,7 +65,7 @@ class ModalCarousel extends React.Component {
             </Box>
           </Flex>
           <Box>
-            <Text float="left" pr={5}> {this.props.data[this.index].description} </Text>
+            <Text float="left" pr={5} w={"25vw"}> {this.props.data[this.index].description} </Text>
           </Box>
           <Box float="left">
           </Box>
@@ -75,7 +75,5 @@ class ModalCarousel extends React.Component {
     );
   }
 }
-
-const props = {};
 
 export default ModalCarousel;
